@@ -33,3 +33,6 @@
   238  awk '{ print NR "\t" $0}' test.txt
   239  history
 
+AWK -F"|" MENCARI PATTERN | SEBAGAI FIELD
+AWK /PATTERN/ MENCARI PATTERN PADA SUATU LINE
+
